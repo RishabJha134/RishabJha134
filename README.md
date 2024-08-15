@@ -71,7 +71,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rishabjha134/rishabjha134/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rishabjha134/rishabjha134/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" />
+
 
 ###
 
